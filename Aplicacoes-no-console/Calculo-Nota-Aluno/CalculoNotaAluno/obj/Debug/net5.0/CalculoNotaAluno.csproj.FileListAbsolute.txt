@@ -1,0 +1,16 @@
+C:\Users\scarl\OneDrive\Documentos\Área de Trabalho\.NET\Nova pasta\Application in console\Calculo Nota Aluno No Console\CalculoNotaAluno\bin\Debug\net5.0\CalculoNotaAluno.exe
+C:\Users\scarl\OneDrive\Documentos\Área de Trabalho\.NET\Nova pasta\Application in console\Calculo Nota Aluno No Console\CalculoNotaAluno\bin\Debug\net5.0\CalculoNotaAluno.deps.json
+C:\Users\scarl\OneDrive\Documentos\Área de Trabalho\.NET\Nova pasta\Application in console\Calculo Nota Aluno No Console\CalculoNotaAluno\bin\Debug\net5.0\CalculoNotaAluno.runtimeconfig.json
+C:\Users\scarl\OneDrive\Documentos\Área de Trabalho\.NET\Nova pasta\Application in console\Calculo Nota Aluno No Console\CalculoNotaAluno\bin\Debug\net5.0\CalculoNotaAluno.runtimeconfig.dev.json
+C:\Users\scarl\OneDrive\Documentos\Área de Trabalho\.NET\Nova pasta\Application in console\Calculo Nota Aluno No Console\CalculoNotaAluno\bin\Debug\net5.0\CalculoNotaAluno.dll
+C:\Users\scarl\OneDrive\Documentos\Área de Trabalho\.NET\Nova pasta\Application in console\Calculo Nota Aluno No Console\CalculoNotaAluno\bin\Debug\net5.0\ref\CalculoNotaAluno.dll
+C:\Users\scarl\OneDrive\Documentos\Área de Trabalho\.NET\Nova pasta\Application in console\Calculo Nota Aluno No Console\CalculoNotaAluno\bin\Debug\net5.0\CalculoNotaAluno.pdb
+C:\Users\scarl\OneDrive\Documentos\Área de Trabalho\.NET\Nova pasta\Application in console\Calculo Nota Aluno No Console\CalculoNotaAluno\obj\Debug\net5.0\CalculoNotaAluno.csproj.AssemblyReference.cache
+C:\Users\scarl\OneDrive\Documentos\Área de Trabalho\.NET\Nova pasta\Application in console\Calculo Nota Aluno No Console\CalculoNotaAluno\obj\Debug\net5.0\CalculoNotaAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scarl\OneDrive\Documentos\Área de Trabalho\.NET\Nova pasta\Application in console\Calculo Nota Aluno No Console\CalculoNotaAluno\obj\Debug\net5.0\CalculoNotaAluno.AssemblyInfoInputs.cache
+C:\Users\scarl\OneDrive\Documentos\Área de Trabalho\.NET\Nova pasta\Application in console\Calculo Nota Aluno No Console\CalculoNotaAluno\obj\Debug\net5.0\CalculoNotaAluno.AssemblyInfo.cs
+C:\Users\scarl\OneDrive\Documentos\Área de Trabalho\.NET\Nova pasta\Application in console\Calculo Nota Aluno No Console\CalculoNotaAluno\obj\Debug\net5.0\CalculoNotaAluno.csproj.CoreCompileInputs.cache
+C:\Users\scarl\OneDrive\Documentos\Área de Trabalho\.NET\Nova pasta\Application in console\Calculo Nota Aluno No Console\CalculoNotaAluno\obj\Debug\net5.0\CalculoNotaAluno.dll
+C:\Users\scarl\OneDrive\Documentos\Área de Trabalho\.NET\Nova pasta\Application in console\Calculo Nota Aluno No Console\CalculoNotaAluno\obj\Debug\net5.0\ref\CalculoNotaAluno.dll
+C:\Users\scarl\OneDrive\Documentos\Área de Trabalho\.NET\Nova pasta\Application in console\Calculo Nota Aluno No Console\CalculoNotaAluno\obj\Debug\net5.0\CalculoNotaAluno.pdb
+C:\Users\scarl\OneDrive\Documentos\Área de Trabalho\.NET\Nova pasta\Application in console\Calculo Nota Aluno No Console\CalculoNotaAluno\obj\Debug\net5.0\CalculoNotaAluno.genruntimeconfig.cache
